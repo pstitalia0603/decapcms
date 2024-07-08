@@ -1,6 +1,5 @@
 ---
-excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS
-  for a stunning site. Explore our guide now.
+excerpt: update?
 author: PSF
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
